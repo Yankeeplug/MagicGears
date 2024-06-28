@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/LandToPlaceTraps/BP_TrapFloor_Floor.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/LandToPlaceTraps/BP_TrapRoof_Roof.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/LandToPlaceTraps/BP_TrapWall_Wall.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/BP_FloorTrap.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/O8/NWRHIROES6JNKN35M73B5H.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/BP_BaseTrap.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/TrapProjectiles/BP_arrows.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/BP_RoofTrap.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/BP_WallTrap.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/Enum_TrapsType.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/ThirdPerson/Input/Actions/IA_SpawnTrap.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/materials/M_placing.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/materials/M_Trap.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/PlayerState/Enum_PlayerState.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/ThirdPerson/Input/Actions/IA_buildMode.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/BPC_buildSystem.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/materials/M_preview.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/ThirdPerson/Input/Actions/IA_placeBuild.uasset",
+				"C:/Users/wscke/Documents/Unreal Projects/practicum3/Content/traps/LandToPlaceTraps/BP_TrapFloor.uasset"
+			]
+		}
+	]
+}
